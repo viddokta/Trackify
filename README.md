@@ -53,7 +53,7 @@ Trackify is a web application designed to streamline task management and enhance
 
 ### Clone the repository
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/Trackify.git`
+1. Clone the repository: `git clone https://github.com/viddokta/Trackify.git`
 
 ### Configure the client
 
@@ -104,6 +104,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any questions or inquiries, please reach out to the development team at [rishavchanda0@gmail.com]
+For any questions or inquiries, please reach out to the development team at [davidokta56@gmail.com]
 
 Enjoy using Trackify and stay productive!
